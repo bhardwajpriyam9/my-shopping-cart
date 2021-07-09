@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Bajaj MD 2020 Split AC",
+        "category" : "Air Conditioners",
+        "price" : "110.25",
+        "imgSrc" : "images/ac.jpg"
+    },
+    {
+        "name" : "Bed",
+        "category" : "Bed",
+        "price" : "102.00",
+        "imgSrc" : "images/bed.png"
+    },
+    {
+        "name" : "Nivia Football",
+        "category" : "Sports & Fitness",
+        "price" : "9.00",
+        "imgSrc" : "images/football.jpeg"
+    },
+    {
+        "name" : "Headphones",
+        "category" : "Electronics",
+        "price" : "15.75",
+        "imgSrc" : "images/headphones.jpg"
+    },
+    {
+        "name" : " Logitech Z-gen Mouse",
+        "category" : "Electronics",
+        "price" : "7.20",
+        "imgSrc" : "images/mouse.jpg"
+    },
+    {
+        "name" : "Men Slim Fit Grey Pants",
+        "category" : "Fashion",
+        "price" : "5.50",
+        "imgSrc" : "images/pants.jpg"
+    },
+    {
+        "name" : "Smoouge Microfibre Cushion",
+        "category" : "Home & Kitchen",
+        "price" : "5.50",
+        "imgSrc" : "images/cushion.png"
+    },
+    {
+        "name" : "Desk",
+        "category" : "Desk",
+        "price" : "25.00",
+        "imgSrc" : "images/desk.png"
+    },
+    {
+        "name" : "Orange India Wooden '10X7' Mini Drawers/Organizer Box",
+        "category" : "Drawer",
+        "price" : "49.00",
+        "imgSrc" : "images/drawer.png"
+    },
+    {
+        "name" : "GNova NHT 1076 Cordless Trimmer for Men (Black)",
+        "category" : "Grooming",
+        "price" : "14.99",
+        "imgSrc" : "images/trimmer.jpeg"
+    },
+    {
+        "name" : "Supreme Scissor Multi-Purpose Plastic Table",
+        "category" : "Chair",
+        "price" : "69.20",
+        "imgSrc" : "images/scissors-chair.png"
+    },
+    {
+        "name" : "Puma Z-20 Shoes",
+        "category" : "Fitness & Fashion",
+        "price" : "20.99",
+        "imgSrc" : "images/shoes.jpg"
+    },
+    {
+        "name" : "Men's Regular fit Casual Shirt(Red)",
+        "category" : "Fashion",
+        "price" : "5.25",
+        "imgSrc" : "images/shirt.jpg"
+    },
+    {
+        "name" : "Optimum Nutrition (ON) Gold Standard 100% Whey Protein Powder - 2 lbs",
+        "category" : "Protiens",
+        "price" : "42.99",
+        "imgSrc" : "images/whey.jpg"
+    },
+    {
+        "name" : "Apple iPhone 11 Pro Max (64GB) - Space Grey",
+        "category" : "Electronics",
+        "price" : "75.80",
+        "imgSrc" : "images/phone.jpg"
+    },
+    {
+        "name" : "Nike Men's Flex 2020 Rn Running Shoes",
+        "category" : "Fitness & Fashion",
+        "price" : "39.00",
+        "imgSrc" : "images/shoes2.jpg"
+    },
+    {
+        "name" : "The 5-AM Club by Robin Sharma",
+        "category" : "Books",
+        "price" : "4.50",
+        "imgSrc" : "images/books.jpg"
+    },
+    {
+        "name" : "Lustre Enterprise High Back Wing Chair in Navy Blue Color",
+        "category" : "Chair",
+        "price" : "52.45",
+        "imgSrc" : "images/wing-chair.png"
+    },
+    {
+        "name" : "Analog Day Date Functioning Stainless Steel Chain Watch for Men",
+        "category" : "Fashion",
+        "price" : "10.50",
+        "imgSrc" : "images/watch.jpg"
+    },
+    {
+        "name" : "AS-IT-IS Nutrition Whey Protein Concentrate 80% Unflavoured, tested for purity (1kg)",
+        "category" : "Protiens",
+        "price" : "29.99",
+        "imgSrc" : "images/protien.jpg"
+    }
+]
